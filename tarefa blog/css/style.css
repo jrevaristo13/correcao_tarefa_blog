@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Orbitron:wght@400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+font-family: "Roboto", sans-serif;
+background-color: black;
+color: aliceblue;
+;
+ 
+    
+}
+img{
+    height: 240px;
+    width: 440px;
+}
+.header1{
+    color: rgb(246, 245, 252);
+    background-color: #f45c0b;
+    padding:16px 0 ;
+    display: flex;
+    border-bottom: 18px solid #341f97;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+header h1{
+    font-size: 45px;
+    font-weight: bold;
+    
+}
+nav ul{
+    display: flex;
+  
+    
+}
+nav p{
+    padding: 16px;
+margin-top: 3px;
+    
+}
+nav a {
+color: rgb(12, 12, 12);
+font-size: 30px; 
+text-decoration: none;
+font-weight: bold;
+padding: 10px;
+}
+.esport{
+    display: flex;
+    margin-top: 55px;
+    text-align: center;
+    background-color: #f45c0b;
+    color: black;
+    box-shadow: 0 0 8px 2px rgb(247, 189, 102);
+}
+.esport h2{
+    
+    font-size: 44px;
+    position: absolute;
+    transform: translateX(50px);
+    margin-top: 3px;
+    color: black;
+}
+.art_esport{
+    margin-top: 45px;
+    justify-content: space-between;
+}
+.esport_img1{
+    padding: 16px;
+    margin-left: 25px;
+}
+.esport h3{
+    color: #f45c0b;
+}
+.esport_img2{
+    padding: 16px;
+    margin-left: 25px;
+    margin-top: 45px;
+}
+ .esport button{
+    background-color: #9a3803;
+    font-size: 25px;
+    padding: 10px ;
+    border-radius: 8px;
+    border: none;
+    color: antiquewhite;
+}
+
+button a{
+  
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.economia{
+    display: flex;
+    margin-top: 55px;
+    text-align: center;
+    margin-top: 125px;
+    background-color: #749272;
+    color: black;
+    box-shadow: 0 0 8px 2px rgb(95, 240, 5);
+}
+.economia h2{
+    color: #050905;
+    font-size: 44px;
+    position: absolute;
+    transform: translateX(50px);
+    margin-top: 5px;
+}
+.art_economia{
+    margin-top: 45px;
+    justify-content: space-between;
+}
+.economia h3{
+    color: #1ef40b;
+}
+.economia_img{
+    margin-top: 25px;
+}
+.economia button{
+    background-color: #0a5d03;
+    font-size: 25px;
+    padding: 10px ;
+    border-radius: 8px;
+    border: none;
+    color: antiquewhite;
+    transform: translateY(-10px);
+}
+.entretenimento{
+    display: flex;
+    margin-top: 55px;
+    text-align: center;
+    margin-top: 125px;
+    color: #050905;
+    background-color: aqua;
+    box-shadow: 0 0 8px 2px rgb(19, 66, 254);
+}
+.entretenimento h2{
+    color: hsl(180, 8%, 3%);
+    font-size: 44px;
+    position: absolute;
+    transform: translateX(50px);
+    margin-top: 5px;
+}
+.art_entretenimento{
+    margin-top: 45px;
+    justify-content: space-between;
+}
+.entretenimento h3{
+    color: hsl(180, 17%, 2%);
+}
+.entretenimento button{
+    background-color: #0d24f3;
+    font-size: 25px;
+    padding: 10px ;
+    border-radius: 8px;
+    border: none;
+    color: antiquewhite;
+    transform: translateY(-10px);
+}
+
+
+.tecnologia{
+    display: flex;
+    margin-top: 55px;
+    text-align: center;
+    margin-top: 125px;
+    background-color: rgb(204, 192, 215);
+    color: #050905;
+    box-shadow: 0 0 8px 2px rgb(217, 52, 249);
+}
+.tecnologia h2{
+    color: hsl(180, 47%, 3%);
+    font-size: 44px;
+    position: absolute;
+    transform: translateX(50px);
+    margin-top: 5px;
+}
+.art_tecnologia{
+    margin-top: 45px;
+    justify-content: space-between;
+}
+.tecnologia h3{
+    color: hsl(180, 18%, 3%);
+}
+.tecnologia button{
+    background-color: #c50df3;
+    font-size: 25px;
+    padding: 10px ;
+    border-radius: 8px;
+    border: none;
+    color: antiquewhite;
+    transform: translateY(-10px);
+}
